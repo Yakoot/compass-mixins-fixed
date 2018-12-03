@@ -1,21 +1,21 @@
 {
-  "name": "compass-mixins",
+  "name": "compass-mixins-fixed",
   "version": "0.12.10",
   "author": {
-    "name": "Guillaume Balaine",
-    "email": "igosuki@gmail.com",
-    "url": "https://github.com/Igosuki"
+    "name": "Anton Mamkin",
+    "email": "mail@tbrd.ru",
+    "url": "https://github.com/Yakoot"
   },
   "contributors": [
     {
-      "name": "Michael Heillein",
-      "url": "https://github.com/michaek"
+      "name": "Anton Mamkin",
+      "url": "https://github.com/yakoot"
     }
   ],
   "description": "Compass stylesheets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Igosuki/compass-mixins.git"
+    "url": "git://github.com/Yakoot/compass-mixins-fixed.git"
   },
   "main": "lib/_compass.scss",
   "keywords": [
@@ -36,8 +36,8 @@
     "tests"
   ],
   "devDependencies": {
-    "chalk": "^0.5.1",
-    "jasmine-node": "^1.14.5",
-    "node-sass": "^3.4.2"
+    "chalk": "^2.4.1",
+    "jasmine-node": "^1.16.2",
+    "node-sass": "^4.10.0"
   }
 }
